@@ -1,0 +1,11 @@
+wicket-contrib-groovy/jar13/.gradle/*
+wicket-contrib-groovy/jar13/log
+wicket-contrib-groovy/jar13/build/classes/*
+wicket-contrib-groovy/jar13/build/tmp/*
+wicket-contrib-groovy/jar13/target/*
+
+wicket-contrib-groovy/jar14/.gradle/*
+wicket-contrib-groovy/jar14/log
+wicket-contrib-groovy/jar14/build/classes/*
+wicket-contrib-groovy/jar14/build/tmp/*
+wicket-contrib-groovy/jar14/target/*
